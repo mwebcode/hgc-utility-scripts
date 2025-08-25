@@ -1,0 +1,1 @@
+- do not mention anthropic or claude in commits
