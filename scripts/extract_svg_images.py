@@ -1,5 +1,5 @@
 # /// script
-# requires-python = ">=3.9"
+# requires-python = ">=3.13"
 # dependencies = [
 #     "lxml>=5.2.0",
 #     "httpx>=0.27.0",
